@@ -1,0 +1,9 @@
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\Dal\bin\Debug\Dal.dll
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\Dal\bin\Debug\Dal.pdb
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\Dal\bin\Debug\DataHelper.dll
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\Dal\bin\Debug\PropertyLayer.dll
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\Dal\bin\Debug\DataHelper.pdb
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\Dal\bin\Debug\PropertyLayer.pdb
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\Dal\obj\Debug\Dal.dll
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\Dal\obj\Debug\Dal.pdb

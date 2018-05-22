@@ -1,0 +1,11 @@
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\BLL\bin\Debug\BLL.dll
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\BLL\bin\Debug\BLL.pdb
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\BLL\bin\Debug\Dal.dll
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\BLL\bin\Debug\PropertyLayer.dll
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\BLL\bin\Debug\DataHelper.dll
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\BLL\bin\Debug\Dal.pdb
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\BLL\bin\Debug\PropertyLayer.pdb
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\BLL\bin\Debug\DataHelper.pdb
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\BLL\obj\Debug\BLL.dll
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\BLL\obj\Debug\BLL.pdb

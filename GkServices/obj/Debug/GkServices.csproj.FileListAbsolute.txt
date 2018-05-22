@@ -1,0 +1,14 @@
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\GkServices\obj\Debug\GkServices.csprojResolveAssemblyReference.cache
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\GkServices\bin\GkServices.dll.config
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\GkServices\bin\GkServices.dll
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\GkServices\bin\GkServices.pdb
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\GkServices\bin\BLL.dll
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\GkServices\bin\PropertyLayer.dll
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\GkServices\bin\Dal.dll
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\GkServices\bin\DataHelper.dll
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\GkServices\bin\BLL.pdb
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\GkServices\bin\PropertyLayer.pdb
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\GkServices\bin\Dal.pdb
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\GkServices\bin\DataHelper.pdb
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\GkServices\obj\Debug\GkServices.dll
+C:\Users\vikaskumar\Documents\Visual Studio 2013\Projects\GK\GkServices\obj\Debug\GkServices.pdb
